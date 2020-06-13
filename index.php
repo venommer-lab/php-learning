@@ -1,12 +1,15 @@
 <html>
-    <head>
-        <title>Example</title>
-    </head>
-    <body>
 
-        <?php
-            echo "Hi, I'm a PHP script!" . PHP_EOL;
-        ?>
+<head>
+    <title>Example</title>
+</head>
 
-    </body>
+<body>
+
+    <?php
+    echo "Hi, I'm a PHP script!" . PHP_EOL;
+    ?>
+
+</body>
+
 </html>
