@@ -1,15 +1,8 @@
-<html>
+<?php
+$a = 83;
+$b = decoct(83);
+var_dump(-$b);
 
-<head>
-    <title>Example</title>
-</head>
-
-<body>
-
-    <?php
-        echo "Hi, I'm a PHP script!" . PHP_EOL;
-    ?>
-
-</body>
-
-</html>
+$a = 26;
+$b = dechex($a);
+var_dump($b);
